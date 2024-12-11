@@ -14,6 +14,7 @@ I'm a freelance developer with extensive programming experience, specializing in
 - 🎨 [ChromaKopia Generator](https://chromakopiagenerator.net) - A powerful tool for generating and manipulating color palettes.
 
 ### Games & Entertainment
+- 🔥 [Sprunki Phase 777](https://sprunkiphase777.com) - Ultimate hub for fans of the Sprunki series, offering a complete collection of innovative gameplay, music creation, and community-driven features.
 - 🎅 [Santa Adventure](https://santaadventure.net) - An exciting Christmas-themed adventure game.
 - 🎮 [Game3rb](https://game3rb.games) - Your ultimate gaming destination with diverse gaming content.
 - 🃏 [Pokemon TCG Pocket](https://pokemontcgpocket.xyz) - A Pokemon Trading Card Game companion app.
