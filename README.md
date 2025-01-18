@@ -12,6 +12,8 @@ I'm a freelance developer with extensive programming experience, specializing in
 
 ### Tools
 - 🎨 [ChromaKopia Generator](https://chromakopiagenerator.net) - A powerful tool for generating and manipulating color palettes.
+- 🔥 [Dandys World Draw](https://dandysworlddraw.com) - Create your favorite Dandy's World characters with our easy-to-follow drawing generator.
+- 🔥 [Kissing Video Generator](https://kissingvideogenerator.com) - Transform your ideas into romantic kissing videos with our AI-powered generator.
 
 ### Games & Entertainment
 - 🔥 [Sprunki Phase 777](https://sprunkiphase777.com) - Ultimate hub for fans of the Sprunki series, offering a complete collection of innovative gameplay, music creation, and community-driven features.
@@ -22,6 +24,9 @@ I'm a freelance developer with extensive programming experience, specializing in
 - ⛳ [Golf Orbit](https://golforbit.org) - An innovative golf gaming experience.
 - 👑 [Like A King](https://likeaking.net) - A strategic kingdom management game.
 - 🎪 [Swizzle Pop](https://swizzlepop.net) - A colorful and engaging puzzle game.
+- 🎪 [Corruptbox](https://corruptbox.biz) - Discover Sprunki Corruptbox, your ultimate destination for the latest and most exciting free online games.
+- 🎪 [Squid Game](https://squid-game.run) - Experience thrilling Squid Game-inspired challenges online.
+
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
