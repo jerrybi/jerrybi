@@ -10,6 +10,9 @@ I'm a freelance developer with extensive programming experience, specializing in
 
 ## 🎮 Recent Projects
 
+### Popular
+- [MaxArt.ai](https://maxart.ai) - Turn text or a photo into stunning AI video & image effects in seconds!
+
 ### Tools
 - 🎨 [ChromaKopia Generator](https://chromakopiagenerator.net) - A powerful tool for generating and manipulating color palettes.
 - 🖌️ [Dandys World Draw](https://dandysworlddraw.com) - Create your favorite Dandy's World characters with our easy-to-follow drawing generator.
